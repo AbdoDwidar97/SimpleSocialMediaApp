@@ -1,0 +1,6 @@
+﻿  Main.cpp
+f:\visual studio 2015 test\socialmedia\socialmedia\socialmedia.h(49): warning C4018: '<': signed/unsigned mismatch
+f:\visual studio 2015 test\socialmedia\socialmedia\wall.h(19): warning C4018: '<': signed/unsigned mismatch
+f:\visual studio 2015 test\socialmedia\socialmedia\wall.h(29): warning C4018: '<': signed/unsigned mismatch
+  SocialMedia.vcxproj -> F:\Visual Studio 2015 TEST\SocialMedia\Debug\SocialMedia.exe
+  SocialMedia.vcxproj -> F:\Visual Studio 2015 TEST\SocialMedia\Debug\SocialMedia.pdb (Partial PDB)
